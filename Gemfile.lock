@@ -80,7 +80,7 @@ GEM
       railties (>= 4.2.0)
     faker (2.12.0)
       i18n (>= 1.6, < 2)
-    ffi (1.9.21)
+    ffi (1.9.24)
     font-awesome-rails (4.7.0.5)
       railties (>= 3.2, < 6.1)
     globalid (0.4.2)
@@ -255,7 +255,7 @@ DEPENDENCIES
   erb2haml
   factory_bot_rails
   faker
-  ffi (= 1.9.21)
+  ffi (= 1.9.24)
   font-awesome-rails
   haml-rails
   jbuilder (~> 2.5)
